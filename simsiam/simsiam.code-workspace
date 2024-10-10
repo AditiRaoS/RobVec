@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../wav2seq"
+		}
+	],
+	"settings": {}
+}
